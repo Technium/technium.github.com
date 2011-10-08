@@ -1,0 +1,56 @@
+
+@font-face {
+    font-family: 'DigitaldreamNarrowRegular';
+    src: url('DIGITALDREAMNARROW-webfont.eot');
+    src: url('DIGITALDREAMNARROW-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DIGITALDREAMNARROW-webfont.woff') format('woff'),
+         url('DIGITALDREAMNARROW-webfont.ttf') format('truetype'),
+         url('DIGITALDREAMNARROW-webfont.svg#DigitaldreamNarrowRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* 717E91	404449	00122C */
+/* DDC8A6	6E6961	422900 */
+
+div#header {
+	background: #717E91;
+}
+
+.logo {
+	color: #fff;
+	font-family: "DigitaldreamNarrowRegular", Segoe, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+	font-size: 28px;
+}
+
+body {
+	background: #00122C;
+	color: #fff;
+}
+
+h1,h2,h3,h4 {
+	color: #717E91;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 13px;
+}
+
+body {
+	font-family: verdana, sans-serif;
+	font-size: 11px;
+}
+
+div.col1 {
+	font-size: 13px;
+}
+
+#footer {
+	text-align: right;
+}
